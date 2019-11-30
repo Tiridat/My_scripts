@@ -17,5 +17,5 @@ git status
 git commit -m "First Readme File"
 git remote add orogin https://github.com/Tiridat/Armath_Depi_Araj.git
 git push -u origin master
-
+git pull # new files from remote
 
