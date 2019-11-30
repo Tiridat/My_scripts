@@ -1,10 +1,10 @@
 #!/bin/bash
-
+# work with git 
 sudo chmod -R 777 html/
 cd html/
 git clone https://github.com/Tiridat/Armath_Depi_Araj.git
 # UserName: Tiridat
-# Password: @asdf
+# Password: 170819@asdf
 cd Armath_Depi_Araj/
 git init
 echo "# BlogName: Armath Depi Araj
