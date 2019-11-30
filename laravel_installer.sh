@@ -28,7 +28,7 @@ sudo composer create-project laravel/laravel your-project --prefer-dist
 sudo chgrp -R www-data /var/www/html/your-project
 sudo chmod -R 775 /var/www/html/your-project/storage
 cd /etc/apache2/sites-available
-sudo nano laravel.conf
+sudo vim laravel.conf
 
 # <VirtualHost *:80>
 #     ServerName yourdomain.tld
